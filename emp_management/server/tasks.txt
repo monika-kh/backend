@@ -1,0 +1,11 @@
+
+
+
+update edit api and form:-
+1. add address in update form and api,
+2. map exp with tech in frontend and update api
+3. add elasticsearch filter in the staff to filter employee
+4. deploy app on aws
+5. If needed add docker and ci-cd
+6. add sentry
+7. add user image
